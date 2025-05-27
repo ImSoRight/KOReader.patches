@@ -4,7 +4,7 @@ This patch allows you to customize your highlight colors.
 <img src="img/custom_highlights.PNG" style="width:30%; height:auto;">
 
 ### [2-large-subtitles](2-large-subtitles.lua)
-This patch makes subtitles the same size as the title. This works well when using the 2-filemanager-titlebar patch by [sebdelsol](https://github.com/sebdelsol/KOReader.patches/tree/main)
+This patch makes subtitles the same size as the title. This works well when using the [2-filemanager-titlebar patch](https://github.com/sebdelsol/KOReader.patches/tree/main#-2-filemanager-titlebar) by [sebdelsol](https://github.com/sebdelsol)
 
 <img src="img/large_subtitle.PNG" style="width:50%; height:auto;">
 
