@@ -17,3 +17,5 @@ This patch replaces the filepath in the subtitle with the shortcut name when you
 This patch changes the text of the exit sleep screen message when you postpone screen update after wakeup (in sleep screen settings) until 'exit sleep screen' gesture that you set up with the gesture manager. If your device is lost and someone finds it, this can tell them how to contact you, and in the meantime, they won't know the gesture that will exit the sleep screen, or that it is even waiting for a gesture.
 
 Hint: In the gesture manager, you can enable multiswipes for more complicated gestures, and can record your own custom multiswipe (you can't mix straight up/down with diagonal swipes). Recording seems more sucessful if you swipe quickly.
+
+<img src="img/exit-sleep-screen-message. jpg" style="width:40%; height:auto;">
