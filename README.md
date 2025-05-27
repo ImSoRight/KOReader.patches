@@ -18,4 +18,4 @@ This patch changes the text of the exit sleep screen message when you postpone s
 
 Hint: In the gesture manager, you can enable multiswipes for more complicated gestures, and can record your own custom multiswipe (you can't mix straight up/down with diagonal swipes). Recording seems more sucessful if you swipe quickly.
 
-<img src="img/exit-sleep-screen-message. jpg" style="width:40%; height:auto;">
+<img src="img/exit-sleep-screen-message.jpg" style="width:70%; height:auto;">
