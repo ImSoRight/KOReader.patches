@@ -13,7 +13,7 @@ function ScreenSaverLockWidget:showWaitForGestureMessage()
     -- another widget that we would need to prevent catching events
     local infomsg = InfoMessage:new{
         text = self.has_exit_screensaver_gesture
-                    and _("If lost, please contact Jenny at 867-5309.") --add your custom message inside the quotation marks here
+                    and _("If found, please contact Jenny at 867-5309.") --add your custom message inside the quotation marks here
                      or _("No exit screensaver gesture configured. Tap to exit.")
     }
     infomsg:paintTo(Screen.bb, 0, 0)
