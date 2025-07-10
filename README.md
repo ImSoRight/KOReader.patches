@@ -1,5 +1,5 @@
 ### [2-customize-highlight-colors](2-customize-highlight-colors.lua)
-This patch allows you to customize your highlight colors.
+This patch allows you to customize your highlight colors and their names.
 
 <img src="img/custom_highlights.PNG" style="width:30%; height:auto;">
 
