@@ -6,7 +6,7 @@ This patch allows you to customize your highlight colors and their names.
 ### [2-star-rating-overlay](2-star-rating-overlay.lua)
 This patch displays your star rating over the book covers in mosaic view of the cover browser. To use the same star icon as I did, save star.empty.svg and star.full.svg in koreader/icons. Make sure to save both, because this will also change the icons on the book status page.
 
-<img src="star_overlay_and_completed_check.png" style="width:30%; height:auto;">
+<img src="img/star_overlay_and_completed_check.png" style="width:30%; height:auto;">
 
 ### [2-complete-status-icon](2-complete-status-icon.lua)
 This patch displays a green checkmark icon on the top left corner of completed book covers in mosaic view of the cover browser (screenshot above). Save complete.svg in koreader/icons.
