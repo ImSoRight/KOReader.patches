@@ -11,9 +11,6 @@ This patch displays your star rating over the book covers in mosaic view of the 
 ### [2-complete-status-icon](2-complete-status-icon.lua)
 This patch displays a green checkmark icon on the top left corner of completed book covers in mosaic view of the cover browser (screenshot above). Save complete.svg in koreader/icons.
 
-### [2-sync-browser-rotation](2-sync-browser-rotation.lua)
-This patch makes koreader keep the same rotation you were using in your most recently opened book when you go back to the file browser, rather than switching back to the default rotation every time.
-
 ### [2-large-subtitles](2-large-subtitles.lua)
 This patch makes subtitles the same size as the title. This works well when using the [2-filemanager-titlebar patch](https://github.com/sebdelsol/KOReader.patches/tree/main#-2-filemanager-titlebar) by [sebdelsol](https://github.com/sebdelsol)
 
